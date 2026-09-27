@@ -11,12 +11,15 @@ export default function App() {
           <h1>
             The inbox, <em>already quiet.</em>
           </h1>
-          <p>Maya Chen · Northwind Studio. Plans on later screens do not charge. Nothing here reads or sends Gmail.</p>
+          <p>Maya Chen · Northwind Studio. Listed plans do not charge. Nothing here reads or sends Gmail.</p>
         </div>
         <div className="page">
           <p className="mute">Thursday · Northwind</p>
           <p className="serif" style={{ fontSize: "2rem", margin: "0.35rem 0 1rem" }}>
-            Five need you
+            Three sample letters
+          </p>
+          <p className="mute" style={{ margin: "-0.5rem 0 1rem" }}>
+            Static preview. File, sweep and undo are not on this page.
           </p>
           <ul className="stack">
             <li className="card">
